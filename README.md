@@ -93,7 +93,7 @@ El repositorio contiene los scripts, el plan declarado antes de las pruebas, los
 
 ## Cómo citar
 
-Quintero Fonseca, L. M. (2026). *Segmento frente a píxel en la clasificación del manglar de la Ciénaga Grande de Santa Marta: qué aporta el contexto espacial a 10 m* [Informe 2, curso Percepción Remota Avanzada]. Universidad Nacional de Colombia. https://github.com/linaq11/cgsm-segmento-vs-pixel
+Quintero Fonseca, L. M. (2026). *Segmento frente a píxel en la clasificación del manglar de la Ciénaga Grande de Santa Marta: qué aporta el contexto espacial a 10 m* [Informe 2, curso Percepción Remota Avanzada]. Universidad Nacional de Colombia. https://github.com/linaq11/CGSM-segmento-vs-pixel
 
 ## Licencia
 

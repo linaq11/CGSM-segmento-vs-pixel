@@ -9,8 +9,8 @@ authors:
 type: software
 license: MIT
 doi: "10.5281/zenodo.23709970"
-repository-code: "https://github.com/linaq11/cgsm-segmento-vs-pixel"
-url: "https://github.com/linaq11/cgsm-segmento-vs-pixel"
+repository-code: "https://github.com/linaq11/CGSM-segmento-vs-pixel"
+url: "https://github.com/linaq11/CGSM-segmento-vs-pixel"
 date-released: "2026-10-27"
 keywords:
   - object-based classification
